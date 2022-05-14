@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1617646929 source:c:\users\adamb\desktop\studia\rok i\semestr2\asd\asd_projekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"StAcK.h"
+
+1617638099 c:\users\adamb\desktop\studia\rok i\semestr2\asd\asd_projekt\stack.h
+
+1617635439 source:c:\users\adamb\desktop\studia\rok i\semestr2\asd\asd_projekt\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"StAcK.h"
+
+1617982764 source:c:\users\couro\desktop\asd_projekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"StAcK.h"
+
+1617981890 c:\users\couro\desktop\asd_projekt\stack.h
+
+1617981890 source:c:\users\couro\desktop\asd_projekt\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"StAcK.h"
+
+1620389074 source:c:\users\couro\desktop\aisd.pro.1id11a.basiak.budzowski.wiech.km.1\asd_projekt\main.c
+	<math.h>
+	"StAcK.h"
+	"LiSt.h"
+
+1620388145 c:\users\couro\desktop\aisd.pro.1id11a.basiak.budzowski.wiech.km.1\asd_projekt\stack.h
+
+1620388110 source:c:\users\couro\desktop\aisd.pro.1id11a.basiak.budzowski.wiech.km.1\asd_projekt\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"StAcK.h"
+
+1620303528 source:c:\users\adamb\desktop\studia\rok i\semestr2\asd\pro\aisd.pro.1id11a.basiak.budzowski.wiech.km.1\asd_projekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"StAcK.h"
+	"QuEuE.h"
+
+1620297572 c:\users\adamb\desktop\studia\rok i\semestr2\asd\pro\aisd.pro.1id11a.basiak.budzowski.wiech.km.1\asd_projekt\stack.h
+
+1620297536 source:c:\users\adamb\desktop\studia\rok i\semestr2\asd\pro\aisd.pro.1id11a.basiak.budzowski.wiech.km.1\asd_projekt\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"StAcK.h"
+
+1620303532 source:c:\users\adamb\desktop\studia\rok i\semestr2\asd\pro\aisd.pro.1id11a.basiak.budzowski.wiech.km.1\asd_projekt\queue.c
+	"QuEuE.h"
+
+1620302128 c:\users\adamb\desktop\studia\rok i\semestr2\asd\pro\aisd.pro.1id11a.basiak.budzowski.wiech.km.1\asd_projekt\queue.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1620387767 c:\users\couro\desktop\aisd.pro.1id11a.basiak.budzowski.wiech.km.1\asd_projekt\queue.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1620387848 source:c:\users\couro\desktop\aisd.pro.1id11a.basiak.budzowski.wiech.km.1\asd_projekt\queue.c
+	"QuEuE.h"
+
+1620389074 source:c:\users\couro\desktop\aisd.pro.1id11a.basiak.budzowski.wiech.km.1\asd_projekt\list.c
+	"LiSt.h"
+
+1620388145 c:\users\couro\desktop\aisd.pro.1id11a.basiak.budzowski.wiech.km.1\asd_projekt\list.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1621507936 source:c:\users\adamb\desktop\studia\rok i\semestr2\asd\pro\aisd.pro.1id11a.basiak.budzowski.wiech.km.2\asd_projekt\list.c
+	"LiSt.h"
+
+1621507936 c:\users\adamb\desktop\studia\rok i\semestr2\asd\pro\aisd.pro.1id11a.basiak.budzowski.wiech.km.2\asd_projekt\list.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1621519944 source:c:\users\adamb\desktop\studia\rok i\semestr2\asd\pro\aisd.pro.1id11a.basiak.budzowski.wiech.km.2\asd_projekt\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"StAcK.h"
+
+1621519944 c:\users\adamb\desktop\studia\rok i\semestr2\asd\pro\aisd.pro.1id11a.basiak.budzowski.wiech.km.2\asd_projekt\stack.h
+
+1621529458 source:c:\users\adamb\desktop\studia\rok i\semestr2\asd\pro\aisd.pro.1id11a.basiak.budzowski.wiech.km.2\asd_projekt\main.c
+	<math.h>
+	"StAcK.h"
+	"LiSt.h"
+	<time.h>
+
+1621507935 source:c:\users\couro\desktop\aisd.pro.1id11a.basiak.budzowski.wiech.km.2\asd_projekt\list.c
+	"LiSt.h"
+
+1621507935 c:\users\couro\desktop\aisd.pro.1id11a.basiak.budzowski.wiech.km.2\asd_projekt\list.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1621511444 source:c:\users\couro\desktop\aisd.pro.1id11a.basiak.budzowski.wiech.km.2\asd_projekt\main.c
+	<math.h>
+	"StAcK.h"
+	"LiSt.h"
+	<time.h>
+
+1621519943 c:\users\couro\desktop\aisd.pro.1id11a.basiak.budzowski.wiech.km.2\asd_projekt\stack.h
+
+1621519943 source:c:\users\couro\desktop\aisd.pro.1id11a.basiak.budzowski.wiech.km.2\asd_projekt\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"StAcK.h"
+
